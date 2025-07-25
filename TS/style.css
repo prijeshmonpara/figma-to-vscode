@@ -18,23 +18,12 @@ body {
 
 .row {
     display: flex;
-}
-
-.align-items-center {
     align-items: center;
-}
-
-.justify-content-center {
     justify-content: center;
-}
-
-.justify-content-between {
     justify-content: space-between;
-}
-
-.justify-content-around {
     justify-content: space-around;
 }
+
 
 
 /* header */
@@ -553,9 +542,6 @@ li {
     color: #fff;
     background-image: url(./assets/sec-4bg.png);
 }
-
-
-
 .domains-container {
     max-width: 1200px;
     margin: auto;
